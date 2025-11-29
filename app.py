@@ -1,8 +1,8 @@
 from flask import Flask, send_from_directory, jsonify, request
 import requests, random
-
+#test
 app = Flask(__name__, static_folder='static')
-
+j = 0
 # Serve the main page
 @app.route('/')
 def index():
