@@ -1,6 +1,3 @@
 Flask==3.0.3
 requests==2.32.3
-<<<<<<< HEAD
-=======
 gunicorn
->>>>>>> dee56b7 (Initial commit)
